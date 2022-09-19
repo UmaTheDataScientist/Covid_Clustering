@@ -1,6 +1,11 @@
 # Covid_Clustering
 A python machine learning project on selecting the best clustering mechanism for Covid data
 
+For this project, we will explore the use of clustering in two different ways:
+
+1. Clustering as data exploration
+2. image compression
+
 Clustering mechasnisms used:
 1. AgglomerativeClustering
 2. DBScan
